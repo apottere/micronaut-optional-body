@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: optional.body
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
